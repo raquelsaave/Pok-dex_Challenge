@@ -1,0 +1,23 @@
+.cont{
+    display:flex;
+}
+h1{
+    color:white;
+}
+.lado1{
+    width:50%;
+}
+.lado2{
+    width:50%;
+}
+.head{
+    background-color: dimgray;
+    text-align: center;
+}
+
+.card{
+    background-color: rgba(22, 44, 73, 0.877);
+}
+h5{
+    color:white;
+}
