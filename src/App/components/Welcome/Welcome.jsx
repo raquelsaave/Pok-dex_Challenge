@@ -84,21 +84,6 @@ class Welcome extends Component {
                                             </tr>
                                         </tbody>
                                     </table>
-                                    {/* <div className="cont">
-                                        <div className="lado1">
-                                            <ul>
-                                                <li>ID: {this.state.pokemon.id}</li>
-                                                <li>Altura: {this.state.pokemon.height}</li>
-                                                <li>Peso : {this.state.pokemon.weight}</li>
-                                                <li>Experiencia : {this.state.pokemon.base_experience}  </li>
-
-                                                <li>Orden : {this.state.pokemon.order}</li>
-                                            </ul>
-                                        </div>
-                                        <div className="lado2">
-
-                                        </div>
-                                    </div> */}
                                 </h6>
                             </div>
                         </div>
